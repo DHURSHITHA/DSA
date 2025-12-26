@@ -12,7 +12,7 @@ The focus of this repository is **revision and reinforcement**, not first-time p
 - Edge-case heavy problems
 - Core concepts revision
 
-## Topics Included
+## Topics Included 
 - Arrays & Strings
 - Recursion
 - Backtracking
