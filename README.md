@@ -8,7 +8,7 @@ The focus of this repository is **revision and reinforcement**, not first-time p
 
 ## Focus Areas
 - Frequently asked interview problems
-- Pattern-based questions
+-  Pattern-based questions
 - Edge-case heavy problems
 - Core concepts revision
 
